@@ -11,12 +11,10 @@
 </div>
 
 <br>
-
 ## Integrantes
 
-| # | Integrantes |
+| # | Integrante |
 |:-:|:---|
-| 01 | Toalombo Punina Jeremy Patricio |
-| 02 | Dávila Hernández Gabriel Marcelo |
-| 03 | Jeremy Masabanda |
-
+| 01 | **Toalombo Punina Jeremy Patricio** — Programador |
+| 02 | **Dávila Hernández Gabriel Marcelo** — Analista |
+| 03 | **Jeremy Masabanda** — Documentación y pruebas |
