@@ -20,26 +20,6 @@
 
 ---
 
-# Sobre la práctica
-
-Esta práctica de programación representa una oportunidad para aplicar nuestros conocimientos de **lógica, análisis, programación y resolución de problemas** mediante el trabajo colaborativo.
-
-La finalidad no es únicamente conseguir que el programa funcione, sino comprender el problema, plantear una solución lógica, programarla, probarla y aprender de los errores encontrados durante el proceso.
-
-```text
-Problema
-   ↓
-Analizar
-   ↓
-Diseñar
-   ↓
-Programar
-   ↓
-Probar
-   ↓
-Documentar
-   ↓
-Solución
 Integrantes
 #	Integrante
 01	Toalombo Punina Jeremy Patricio
