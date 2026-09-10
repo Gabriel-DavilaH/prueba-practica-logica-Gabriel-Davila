@@ -18,3 +18,4 @@
 | 01 | **Toalombo Punina Jeremy Patricio** — Programador |
 | 02 | **Dávila Hernández Gabriel Marcelo** — Analista |
 | 03 | **Jeremy Masabanda** — Documentación y pruebas |
+| 04 | **JOSE CAIZA** — QA--- 1 punto |
