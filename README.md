@@ -1,9 +1,4 @@
-Jeremy Masabanda No cumplió con la creación del repositorio
 
-````markdown
-<!-- ========================================================= -->
-<!--                    PRUEBA-PRÁCTICA                        -->
-<!-- ========================================================= -->
 
 <div align="center">
 
