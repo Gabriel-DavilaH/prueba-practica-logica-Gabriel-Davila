@@ -1,4 +1,4 @@
-jeremy masabnada no cumplio creaciòn del repositorio
+Jeremy Masabanda no cumplio creaciòn del repositorio
 
 
 
