@@ -14,7 +14,7 @@
 
 ## Integrantes
 
-| # | Integrante |
+| # | Integrantes |
 |:-:|:---|
 | 01 | Toalombo Punina Jeremy Patricio |
 | 02 | Dávila Hernández Gabriel Marcelo |
