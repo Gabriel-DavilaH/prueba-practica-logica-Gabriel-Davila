@@ -29,4 +29,10 @@ public class competenciaProgramacion {
         desafioExtra = sc.next();
 
         System.out.print("Descalificado por copia (Si/No): ");
-        descalificado = sc.next();
+        descalificado = sc.next();ç
+        
+         puntajeBase = reto1 + reto2 + reto3;
+
+        penalizacion = errores * 4;
+
+        bonificacion = 0;
