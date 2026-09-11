@@ -74,3 +74,6 @@ public class competenciaProgramacion {
         System.out.println("Puntaje final: " + puntajeFinal);
         System.out.println("Nivel: " + nivel);
         System.out.println("Observacion: " + observacion);
+        sc.close();
+    }
+}
