@@ -36,3 +36,17 @@ public class competenciaProgramacion {
         penalizacion = errores * 4;
 
         bonificacion = 0;
+
+        if (desafioExtra.equalsIgnoreCase("Si")) {
+            bonificacion = bonificacion + 15;
+        }
+
+        if (tiempo < 30) {
+            bonificacion = bonificacion + 10;
+        }
+
+        puntajeFinal = puntajeBase - penalizacion + bonificacion;
+
+        if (puntajeFinal < 0) {
+            puntajeFinal = 0;
+        }
