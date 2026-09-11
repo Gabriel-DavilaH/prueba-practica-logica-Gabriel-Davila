@@ -17,6 +17,17 @@ public class competenciaProgramacion {
 
         System.out.print("Puntaje reto 3: ");
         reto3 = sc.nextDouble();
+        System.out.print("Numero de errores: ");
+        errores = sc.nextInt();
+
+        System.out.print("Tiempo total en minutos: ");
+        tiempo = sc.nextInt();
+
+        System.out.print("Resolvio el desafio extra (Si/No): ");
+        desafioExtra = sc.next();
+
+        System.out.print("Descalificado por copia (Si/No): ");
+        descalificado = sc.next();
          puntajeBase = reto1 + reto2 + reto3;
 
         penalizacion = errores * 4;
