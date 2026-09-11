@@ -50,3 +50,23 @@ public class competenciaProgramacion {
         if (puntajeFinal < 0) {
             puntajeFinal = 0;
         }
+
+     if (descalificado.equalsIgnoreCase("Si")) {
+            nivel = "Descalificado";
+        } else if (puntajeFinal <= 29) {
+            nivel = "Principiante";
+        } else if (puntajeFinal <= 49) {
+            nivel = "Basico";
+        } else if (puntajeFinal <= 69) {
+            nivel = "Intermedio";
+        } else if (puntajeFinal <= 89) {
+            nivel = "Avanzado";
+        } else {
+            nivel = "Experto";
+        }
+
+        observacion = "Sin observaciones";
+
+        if (errores > 5 && puntajeFinal >= 70) {
+            observacion = "Resultado inconsistente: revisar calidad de resolución";
+        }
