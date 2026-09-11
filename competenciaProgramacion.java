@@ -67,7 +67,10 @@ public class competenciaProgramacion {
         if (errores > 5 && puntajeFinal >= 70) {
             observacion = "Resultado inconsistente: revisar calidad de resolución";
         }
-System.out.println("\n--- RESULTADOS ---");
+        System.out.println("\n--- RESULTADOS ---");
         System.out.println("Puntaje base: " + puntajeBase);
         System.out.println("Penalizacion: " + penalizacion);
         System.out.println("Bonificacion: " + bonificacion);
+        System.out.println("Puntaje final: " + puntajeFinal);
+        System.out.println("Nivel: " + nivel);
+        System.out.println("Observacion: " + observacion);
