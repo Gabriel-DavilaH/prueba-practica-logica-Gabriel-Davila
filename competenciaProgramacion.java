@@ -9,7 +9,14 @@ public class competenciaProgramacion {
         String desafioExtra, descalificado;
         double puntajeBase, penalizacion, bonificacion, puntajeFinal;
         String nivel, observacion;
+        System.out.print("Puntaje reto 1: ");
+        reto1 = sc.nextDouble();
 
+        System.out.print("Puntaje reto 2: ");
+        reto2 = sc.nextDouble();
+
+        System.out.print("Puntaje reto 3: ");
+        reto3 = sc.nextDouble();
          puntajeBase = reto1 + reto2 + reto3;
 
         penalizacion = errores * 4;
